@@ -1,0 +1,16 @@
+TUGAS KECIL 1 STRATEGI ALGORITMA
+Nama: Jan Meyer Saragih
+NIM: 13517131
+Kelas: K-02
+Permainan 24
+
+Masukkan keempat angka yang mungkin
+3 8 3 8
+Angka yang diproses adalah...
+3, 8, 3, dan 8
+
+Mencari solusi...
+8 / (3 - (8 / 3))
+
+Terdapat 1 buah solusi
+Waktu eksekusi: 0.00100s

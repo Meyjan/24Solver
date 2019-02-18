@@ -1,0 +1,15 @@
+TUGAS KECIL 1 STRATEGI ALGORITMA
+Nama: Jan Meyer Saragih
+NIM: 13517131
+Kelas: K-02
+Permainan 24
+
+Masukkan keempat angka yang mungkin
+1 1 1 1
+Angka yang diproses adalah...
+1, 1, 1, dan 1
+
+Mencari solusi...
+
+Terdapat 0 buah solusi
+Waktu eksekusi: 0.00100s

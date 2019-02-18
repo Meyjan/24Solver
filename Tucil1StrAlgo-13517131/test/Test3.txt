@@ -1,0 +1,22 @@
+TUGAS KECIL 1 STRATEGI ALGORITMA
+Nama: Jan Meyer Saragih
+NIM: 13517131
+Kelas: K-02
+Permainan 24
+
+Masukkan keempat angka yang mungkin
+6 6 6 6
+Angka yang diproses adalah...
+6, 6, 6, dan 6
+
+Mencari solusi...
+((6 + 6) + 6) + 6
+(6 + 6) + (6 + 6)
+(6 + (6 + 6)) + 6
+6 + ((6 + 6) + 6)
+6 + (6 + (6 + 6))
+(6 * 6) - (6 + 6)
+((6 * 6) - 6) - 6
+
+Terdapat 7 buah solusi
+Waktu eksekusi: 0.00800s
